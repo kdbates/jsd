@@ -1,0 +1,6 @@
+@import "../../modules/_large-hero";
+
+img {
+  max-width: 100%;
+  height: auto;
+}
